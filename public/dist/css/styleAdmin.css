@@ -1,0 +1,279 @@
+i.fa.fa-search {
+    margin-left: 61pc;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.header {
+  overflow: hidden;
+  background-color:#039BE5;
+}
+.admin-logreg {
+  margin-left: 16%;
+}
+
+.text h3 {
+  float: left;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 25px 30px;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 700;
+}
+.search {
+padding-top: 17px;
+}
+
+.search input[type=text] {
+  float: left;
+  padding: 10px 152px;
+  margin-top: 8px;
+  border: none;
+  font-size: 17px;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .text a, .search input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  
+  .search input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+.message-author img {
+  height: 50px;
+  width: 50px;
+}
+.col-md-4.title {
+  padding-top: 3pc;
+  padding-left: 10pc;
+}
+.message-author img {
+  border-radius: 29px;
+  margin-top: 20px;
+  margin-left: 28px;
+}
+span.author-info  {
+margin-left: 3pc;
+position: absolute;
+margin-top: 32px;
+color: #039be5;
+}
+.info {
+  border-top: 1px solid #f2f2f2;
+  padding-bottom: 30px;
+  background: #e4efe3;
+}
+.col-md-4.title h5 {
+font-weight: 700;
+font-size: 17px;
+}
+.message-author input[type=checkbox] {
+border: 1px solid #ccc;  
+}
+
+
+/* Admin dashboard */
+.section-content {
+  margin-left: 14%;
+}
+.admin-hbtn a {
+  border: 1px solid #A7D16D;
+  background: #A7D16D;
+  padding: 8px 10px;
+  position: sticky;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 20px;
+}
+
+
+p.card-text {
+  font-size: 18px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+}
+h6.details-text {
+  border-top: 1px solid #b0b3b7;
+  padding: 12px 0px;
+  color: #fff;
+  letter-spacing: 0.5px;
+}
+.section-text {
+  margin-left: 14%;
+  border-bottom: 1px solid #F2f2f2;
+}
+
+/* after 2.5 */
+
+tr.admin-tr {
+  background: #2cb474;
+}
+tr.admin-td {
+  background: #e0f9e2;
+}
+.section-content{
+  background-color: #f7f0ea;
+}
+tr.login-tr{
+  background-color: #B8474D;
+}
+tr.login-td{
+  background-color:#ebf2ea ;
+}
+tr.category-tr{
+  background-color: #681010;
+  color: #fff;
+}
+tr.category-td{
+  background-color: #c7eadc;
+
+}
+tr.customer-tr{
+  background-color: #0F2D40;
+  color: #fff;
+}
+tr.seller-tr{
+  background-color: #692F73;
+  color: #fff;
+}
+tr.seller-td{
+  background-color: #bbb7bc;
+  
+}
+tr.product-tr{
+  background-color: #067206;
+  color: #fff;
+}
+tr.product-td{
+  background-color: #eac9be;
+}
+tr.img-tr{
+  background-color: #CF414B;
+}
+tr.img-td{
+  background-color: #bbf7e2;
+}
+tr.cart-tr{
+  background-color: #244A57;
+  color: #fff;
+}
+tr.cart-td{
+  background-color: #c9dae0;
+  
+}
+tr.invoice-tr{
+  background-color: #7F2932;
+  color: #fff;
+}
+tr.invoice-td{
+  background-color: #e1eaef;
+  
+}
+tr.trnas-tr{
+  background: #91B847;
+}
+tr.trans-td{
+  background: #e2e5dc;
+}
+tr.ratings-tr{
+  background-color: #CF414B;
+  color: #fff;
+}
+tr.ratings-td{
+  background-color: #fcdeea;
+  color: #000;
+}
+tr.loc-tr{
+  background: #164843;
+  color: #fff;
+}
+tr.loc-td{
+  background: #AAB3AE;
+  
+}
+tr.sub-tr{
+  background-color: #2cb474;
+}
+tr.sub-td{
+  background-color: #d4d2f7;
+}
+li.nav-item.d-none.d-sm-inline-block:hover {
+  background: #f2f2f2;
+}
+li.nav-item.d-none.d-sm-inline-block a:hover {
+  color: #000;
+  font-weight: 700;
+}
+.brand-link img{
+  height: 50px;
+  width: 50px;
+
+}
+ul.navbar-nav {
+  margin-left: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 15px;
+}
+footer.main-footer {
+  background: #222222;
+}
+.links ul li {
+  list-style: none;
+}
+.links ul li a {
+  color: #fff;
+  font-size: 19px;
+  margin-left: -44px;
+  margin-top: 9px;
+  line-height: 37px;
+}
+.links ul li a:hover {
+  color: #2cb474;
+  
+}
+.contact p {
+  color: #FFF;
+  margin: 25px 0px;
+}
+.contact ul li {
+  float: left;
+  margin: 10px 15px;
+  font-size: 30px;
+  list-style: none;
+  color: #007BFE;
+}
+.fotter-adtxt p {
+  color: #fff;
+  margin-top: 21px;
+}
+.copyright {
+  border-top: 1px solid;
+  margin-top: 23px;
+}
+.copyright p {
+ 
+  margin-top: 15px;
+}
+.message {
+  background: #282363;
+}
+.message {
+  background: #282363;
+}
+.title h5 {
+  color: #Fff;
+}
+
